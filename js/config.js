@@ -1,0 +1,3 @@
+// config.js
+export const supabaseUrl = 'https://obcvtabloifyhkvltcig.supabase.co';
+export const supabaseKey = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Im9iY3Z0YWJsb2lmeWhrdmx0Y2lnIiwicm9sZSI6ImFub24iLCJpYXQiOjE3MTAxMTUzNjMsImV4cCI6MjAyNTY5MTM2M30.SEOWScUM-rVzXYpdFQtMLxpH3saFqmg_ynq2bhv8w8A';
